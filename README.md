@@ -37,10 +37,8 @@ Users should be able to:
 Frontend Mentor
 CSS Flexbox Guide – MDN
 Google Fonts – Self-hosting
-🧑‍💻 Author
 
-GitHub: @your-username
-🙌 Acknowledgments
-
+GitHub: @Bleudot
+"""
 Thanks to Frontend Mentor for the challenge!
 """
