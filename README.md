@@ -18,22 +18,6 @@ Users should be able to:
 - Custom font using `@font-face`
 - Responsive and centered layout
 
-## 📁 Project Structure
-
-.
-├── assets/
-│ ├── fonts/
-│ │ └── Figtree-VariableFont_wght.ttf
-│ ├── images/
-│ │ ├── favicon-32x32.png
-│ │ ├── illustration-article.svg
-│ │ └── image-avatar.webp
-├── index.html
-├── styles.css
-└── README.md
-
-Always show details
-
 
 ## 🎯 What I Learned
 
